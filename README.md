@@ -120,5 +120,5 @@ See [latest release](https://github.com/erasureprotocol/erasure-protocol/release
 
 - [Erasure Abis](packages/abis)
 - [Erasure Crypto + IPFS Helpers](packages/crypto-ipfs)
-- [GraphQL Client](packages/the-graph)
+- [GraphQL Client](packages/graph-client)
 - [Local Dev Environment](packages/testenv)
